@@ -8,7 +8,6 @@ I'm a passionate Android developer focused on building modern and user-friendly 
 ## 👨‍💻 What I'm currently working on:
 - E-commerce App using Jetpack Compose, Clean Architecture, Room, Retrofit, and Firebase.
 - Movie App in Kotlin, integrating API data and following Android best practices.
-- Exploring Machine Learning and AI to expand my expertise into high-tech domains.
 
 ## 🛠️ Tech Stack:
 - Languages: Kotlin, Java, Flutter (beginner)
@@ -19,7 +18,6 @@ I'm a passionate Android developer focused on building modern and user-friendly 
 
 ## 🌱 Currently Learning:
 - Kotlin Multiplatform (KMP)
-- AI & Machine Learning for mobile applications
 - Android Dependency Injection (DI)
 - Building complex UIs with Jetpack Compose
 
