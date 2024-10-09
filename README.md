@@ -7,14 +7,14 @@ I'm a passionate Android developer focused on building modern and user-friendly 
 
 ## 👨‍💻 What I'm currently working on:
 - E-commerce App using Jetpack Compose, Clean Architecture, Room, Retrofit, and Firebase.
-- Weather App in Kotlin, integrating API data and following Android best practices.
+- Movie App in Kotlin, integrating API data and following Android best practices.
 - Exploring Machine Learning and AI to expand my expertise into high-tech domains.
 
 ## 🛠️ Tech Stack:
 - Languages: Kotlin, Java, Flutter (beginner)
 - Frameworks & Libraries: Jetpack Compose, Room, Retrofit, Paging3, Firebase
 - Architecture Patterns: MVVM, Clean Architecture
-- Development Tools: Android Studio, Git, Gradle, Motion, Final Cut Pro
+- Development Tools: Android Studio, Git, Gradle, Motion, Final Cut Pro, Figma
 - Cloud & Backend: Firebase, REST APIs
 
 ## 🌱 Currently Learning:
@@ -24,9 +24,9 @@ I'm a passionate Android developer focused on building modern and user-friendly 
 - Building complex UIs with Jetpack Compose
 
 ## 💡 Fun Projects:
-MoneyConverterApp – A currency converter app built with Jetpack Compose.
-Quiz Channel – A fun YouTube channel [David's Day by Day](https://www.youtube.com/@davidsdaybyday3636) focused on quiz videos, trivia, and engaging content.
-Travel App – Ongoing project to create a Kotlin Native travel app with Jetpack Compose.
+- MoneyConverterApp – A currency converter app built with Jetpack Compose.
+- Quiz Channel – A fun YouTube channel [David's Day by Day](https://www.youtube.com/@davidsdaybyday3636) focused on quiz videos, trivia, and engaging content.
+- Travel App – Ongoing project to create a Kotlin Native travel app with Jetpack Compose.
 
 💬 Let's Connect:
 - 📧 Email : ahshan061@gmail.com
