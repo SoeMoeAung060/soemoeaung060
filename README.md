@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Soe Moe Aung!
-## Android Developer | Kotlin Enthusiast | Tech Explorer
+## Android Junior Developer | Kotlin Enthusiast | Tech Explorer
 
 I'm a passionate Android developer focused on building modern and user-friendly mobile applications using Kotlin and Jetpack Compose. I'm always eager to learn new technologies and enhance my skills by working on challenging projects. Recently, I've been diving into Android Clean Architecture, Jetpack Compose, and Kotlin Multiplatform (KMP).
 
@@ -7,10 +7,10 @@ I'm a passionate Android developer focused on building modern and user-friendly 
 
 ## 👨‍💻 What I'm currently working on:
 - E-commerce App using Jetpack Compose, Clean Architecture, Room, Retrofit, and Firebase.
-- Movie App in Kotlin, integrating API data and following Android best practices.
+- Movie Ticket App in Kotlin, integrating API data and following Android best practices.
 
 ## 🛠️ Tech Stack:
-- Languages: Kotlin, Java, Flutter (beginner)
+- Languages: Kotlin, Java, Dart (beginner)
 - Frameworks & Libraries: Jetpack Compose, Room, Retrofit, Paging3, Firebase
 - Architecture Patterns: MVVM, Clean Architecture
 - Development Tools: Android Studio, Git, Gradle, Motion, Final Cut Pro, Figma
@@ -20,11 +20,12 @@ I'm a passionate Android developer focused on building modern and user-friendly 
 - Kotlin Multiplatform (KMP)
 - Android Dependency Injection (DI)
 - Building complex UIs with Jetpack Compose
+- Kotlin Advanced
 
 ## 💡 Fun Projects:
 - MoneyConverterApp – A currency converter app built with Jetpack Compose.
-- Quiz Channel – A fun YouTube channel [David's Day by Day](https://www.youtube.com/@davidsdaybyday3636) focused on quiz videos, trivia, and engaging content.
-- Travel App – Ongoing project to create a Kotlin Native travel app with Jetpack Compose.
+- Movie Ticket App - Ongoing project to create a Kotlin Native travel app with Jetpack Compose.
+- Diary App – Using Kotlin with Jetpack Compose.
 
 💬 Let's Connect:
 - 📧 Email : ahshan061@gmail.com
