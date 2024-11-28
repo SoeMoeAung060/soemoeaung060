@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Soe Moe Aung!
-## Android Junior Developer | Kotlin Enthusiast | Tech Explorer
+## Android Developer | Kotlin Enthusiast | Tech Explorer
 
 I'm a passionate Android developer focused on building modern and user-friendly mobile applications using Kotlin and Jetpack Compose. I'm always eager to learn new technologies and enhance my skills by working on challenging projects. Recently, I've been diving into Android Clean Architecture, Jetpack Compose, and Kotlin Multiplatform (KMP).
 
