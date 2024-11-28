@@ -10,7 +10,7 @@ I'm a passionate Android developer focused on building modern and user-friendly 
 - Movie Ticket App in Kotlin, integrating API data and following Android best practices.
 
 ## 🛠️ Tech Stack:
-- Languages: Kotlin, Java, Dart (beginner)
+- Languages: Kotlin, Java, Dart
 - Frameworks & Libraries: Jetpack Compose, Room, Retrofit, Paging3, Firebase
 - Architecture Patterns: MVVM, Clean Architecture
 - Development Tools: Android Studio, Git, Gradle, Motion, Final Cut Pro, Figma
@@ -24,7 +24,7 @@ I'm a passionate Android developer focused on building modern and user-friendly 
 
 ## 💡 Fun Projects:
 - MoneyConverterApp – A currency converter app built with Jetpack Compose.
-- Movie Ticket App - Ongoing project to create a Kotlin Native travel app with Jetpack Compose.
+- Movie Ticket App - Ongoing project to create a Kotlin with Jetpack Compose.
 - Diary App – Using Kotlin with Jetpack Compose.
 
 💬 Let's Connect:
