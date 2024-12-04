@@ -32,5 +32,3 @@ I'm a passionate Android developer focused on building modern and user-friendly 
 - 🎥 YouTube : [David's Day by Day](https://www.youtube.com/@davidsdaybyday3636)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything tech-related!
-
-This is just a template—be sure to adjust it to reflect your personality and current work! You can also add more custom sections, like badges for technologies, a portfolio, or a blog if you have one.
