@@ -29,6 +29,5 @@ I'm a passionate Android developer focused on building modern and user-friendly 
 
 💬 Let's Connect:
 - 📧 Email : ahshan061@gmail.com
-- 🎥 YouTube : [David's Day by Day](https://www.youtube.com/@davidsdaybyday3636)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything tech-related!
