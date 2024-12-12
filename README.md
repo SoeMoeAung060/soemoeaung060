@@ -30,5 +30,6 @@ I'm a passionate Android developer focused on building modern and user-friendly 
 💬 Let's Connect:
 - 📧 Email : ahshan061@gmail.com
 - 🖥 Youtube : https://www.youtube.com/@CodewithDavidYang-y4c
+- 🔗 Linkedin : https://www.linkedin.com/in/david-yang-67223333b/
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything tech-related!
