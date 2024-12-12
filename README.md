@@ -1,13 +1,13 @@
 # 👋 Hello, I'm David Yang!
 ## Android Developer | Kotlin Enthusiast | Tech Explorer
 
-I'm a passionate Android developer focused on building modern and user-friendly mobile applications using Kotlin and Jetpack Compose. I'm always eager to learn new technologies and enhance my skills by working on challenging projects. Recently, I've been diving into Android Clean Architecture, Jetpack Compose, and Kotlin Multiplatform (KMP).
+I'm a passionate Android developer focused on building modern and user-friendly mobile applications using Kotlin and Jetpack Compose. I'm always eager to learn new technologies and enhance my skills by working on challenging projects. I've been diving into Android Clean Architecture, Jetpack Compose, and Kotlin Multiplatform (KMP).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soemoeaung060)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👨‍💻 What I'm currently working on:
-- E-commerce App using Jetpack Compose, Clean Architecture, Room, Retrofit, and Firebase.
 - Movie Ticket App in Kotlin, integrating API data and following Android best practices.
+- E-commerce App using Jetpack Compose, Clean Architecture, Room, Retrofit, and Firebase.
 
 ## 🛠️ Tech Stack:
 - Languages: Kotlin, Java, Dart
@@ -23,9 +23,9 @@ I'm a passionate Android developer focused on building modern and user-friendly 
 - Kotlin Advanced
 
 ## 💡 Fun Projects:
-- MoneyConverterApp – A currency converter app built with Jetpack Compose.
 - Movie Ticket App - Ongoing project to create a Kotlin with Jetpack Compose.
 - Diary App – Using Kotlin with Jetpack Compose.
+- MoneyConverterApp – A currency converter app built with Jetpack Compose.
 
 💬 Let's Connect:
 - 📧 Email : ahshan061@gmail.com
